@@ -8,7 +8,7 @@
 
 - name: Piotr Kosmowski
   github_username: kospiotr
-  
+
 - name: Krzysztof Walczak
   github_username: kwalczak
 
@@ -17,18 +17,21 @@
 
 - name: Maciej Zielinski
   github_username: mzielinski
-  
+
 - name: Daniel Wojda
   github_username: wojda
-  
+
 - name: Piotr Zalewski
   github_username: piotrzalewski
 
 - name: Adam Winciorek
   github_username: winciu
-  
+
 - name: Bartosz Bilicki
   github_username: bartosz-bilicki
 
 - name: Michal Wasilewski
   github_username: wasyl77
+
+- name: Maciej Kucharek
+  github_username: mkucharek
