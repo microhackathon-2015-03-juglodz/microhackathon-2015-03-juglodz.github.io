@@ -9,11 +9,6 @@ Welcome to the Microservice Hackathon!
 
 Here you find all information required for you to work during the Hackathon.
 
-# Link to the presentation
-
-[Presentation about microservices](https://docs.google.com/presentation/d/17cCAQ1wBE6qkBuIgFQWOME3T9ARMKRa88JC32kIwFMo/)
-
-
 # Menu
 
  * [Howto](/howto)

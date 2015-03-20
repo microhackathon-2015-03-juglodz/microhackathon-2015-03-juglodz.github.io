@@ -63,7 +63,6 @@ deploy your application to the apps server.
 Each of the microservices will have a predefined port at which it will listen
 to requests so you don't have to worry about that.
 
-
 # I have a UI based microservice - where is my readme?!
 
 Check this out [boot-microservice-gui-readme](https://github.com/4finance/boot-microservice#boot-microservice-gui--). Just scroll to the very bottom ;)

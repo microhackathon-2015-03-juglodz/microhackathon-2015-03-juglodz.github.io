@@ -4,6 +4,10 @@ title: Architecture
 permalink: /architecture/
 ---
 
+# Link to the microservices presentation
+
+[Presentation about microservices](https://docs.google.com/presentation/d/17cCAQ1wBE6qkBuIgFQWOME3T9ARMKRa88JC32kIwFMo/)
+
 ## Architecture draft
 
 [Click to see the draft](https://docs.google.com/document/d/1yRV5DNJAhBH73bJo-s5L8wwoeJG4Ke6H45dg8_rRT84/edit?usp=sharing)
