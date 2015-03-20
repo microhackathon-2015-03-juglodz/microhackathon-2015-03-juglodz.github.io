@@ -36,7 +36,7 @@ git clone https://github.com/microhackathon-2015-03-juglodz/properties.git
 
 For Linux
 
-```
+```bash
 ### Configuration which should be placed on server where app is deployed
 # Environment where our app is deployed, configuration will be taken from corresponding dir
 export APP_ENV="prod"
@@ -52,7 +52,7 @@ For Windows
 
 either do it via some UI or run this command
 
-```
+```batch
 rem ### Configuration which should be placed on server where app is deployed
 rem Environment where our app is deployed, configuration will be taken from corresponding dir
 @set APP_ENV="prod"
