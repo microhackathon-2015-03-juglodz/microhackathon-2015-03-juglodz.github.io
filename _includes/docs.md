@@ -41,7 +41,7 @@ For Linux
 # Environment where our app is deployed, configuration will be taken from corresponding dir
 export APP_ENV="prod"
 # Git repository with configuration. Absolute path should be used.
-export CONFIG_FOLDER="/path/to/your/checkout/out/git/repository"
+export CONFIG_FOLDER="/path/to/your/checked/out/git/repository"
 # For secretProd env, ENCRYPT_KEY is required.
 # Use encrypt.key if you pass it as -D option when running java
 export ENCRYPT_KEY="secretEncryptKey"
@@ -57,7 +57,7 @@ rem ### Configuration which should be placed on server where app is deployed
 rem Environment where our app is deployed, configuration will be taken from corresponding dir
 @set APP_ENV="prod"
 rem Git repository with configuration. Absolute path should be used.
-@set CONFIG_FOLDER="C:/path/to/your/checkout/out/git/repository"
+@set CONFIG_FOLDER="C:/path/to/your/checked/out/git/repository"
 rem For secretProd env, ENCRYPT_KEY is required.
 rem Use encrypt.key if you pass it as -D option when running java
 @set ENCRYPT_KEY="secretEncryptKey"
