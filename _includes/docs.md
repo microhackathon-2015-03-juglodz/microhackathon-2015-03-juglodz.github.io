@@ -5,9 +5,14 @@ Welcome to the Microservice Hackathon!
 
 Here you find all information required for you to work during the Hackathon.
 
+# Sponsors
+
+![Lodz JUG](/images/lodzjug.png "Lodz JUG")
+![Amazon Web Services](/images/aws.png "AWS")
+
 # Link to the presentation
 
-[Presentation about microservices](https://docs.google.com/presentation/d/1alWCqeNK2KT-bjidlGZ_tvoN5hYQT0VBhbMcrOzkGyU/edit?usp=sharing)
+[Presentation about microservices](https://docs.google.com/presentation/d/17cCAQ1wBE6qkBuIgFQWOME3T9ARMKRa88JC32kIwFMo/)
 
 # Ok what should I do now? 
 
@@ -20,7 +25,7 @@ to requests so you don't have to worry about that.
 
 # I have a UI based microservice - where is my readme?!
 
-Check this out [boot-microservice-gui-readme](https://github.com/4finance/boot-microservice-gui)
+Check this out [boot-microservice-gui-readme](https://github.com/4finance/boot-microservice). Just scroll to the very bottom ;)
 
 # I have a backend based microservice - where is my readme?!
 
@@ -34,11 +39,7 @@ For a NoSQL one use [Fongo](https://github.com/fakemongo/fongo) in compile scope
 
 # How to run my microservice locally
 
-We give you Spring profiles! Just add a system property:
-
-```bash
--Dspring.profiles.active=dev
-```
+It's all there in the readme - [boot-microservice-readme](https://github.com/4finance/boot-microservice)
 
 # Architecture
 
