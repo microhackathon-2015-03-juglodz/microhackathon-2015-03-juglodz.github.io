@@ -2,34 +2,29 @@
 layout: default
 ---
 
-{% include docs.md %}
+Microservice Hackathon
+======================
 
-# Tools
+Welcome to the Microservice Hackathon!
 
-<ul>
-{% for tool in site.data.tools %}
-  <li><a href="{{ tool.url }}">{{ tool.name }}</a></li>
-{% endfor %}
-</ul>
+Here you find all information required for you to work during the Hackathon.
 
-# Microservices addresses
+# Link to the presentation
 
-<table class='table'>
-  <tbody>
-  {% for project in site.data.projects %}
-    <tr>
-      <td><a href="http://apps.{{ site.domain }}:{{ project.port }}">{{ project.name }} (port {{ project.port }})</a></td>
-      <td><a href="http://apps.{{ site.domain }}:{{ project.port }}/swagger/index.html">Swagger</a></td>
-      <td><a href="http://jenkins.{{ site.domain }}:8080/job/{{ project.name }}/">Jenkins</a></td>
-    </tr>
-  {% endfor %}
-  </tbody>
-</table>
+[Presentation about microservices](https://docs.google.com/presentation/d/17cCAQ1wBE6qkBuIgFQWOME3T9ARMKRa88JC32kIwFMo/)
 
-# Hackers
 
-<ul>
-  {% for hacker in site.data.attendees %}
-    <li><a href="https://github.com/{{ hacker.github_username }}">{{ hacker.name }}</a></li>
-  {% endfor %}
-</ul>
+# Menu
+
+ * [Howto](/howto)
+ * [Architecture](/architecture/)
+ * [Tools](/tools/)
+ * [Microservices addresses](/microservices/)
+ * [Attendees](/hackers/)
+
+# Sponsors
+
+<img src="/images/lodzjug.png" title="Łódź JUG" class="sponsor" />
+<img src="/images/aws.png" title="Amazon Web Services" class="sponsor"/>
+<img src="/images/gftlogo.jpg" title="GFT" class="sponsor"/>
+<img src="/images/4finance-logo.png" title="4financeIT" class="sponsor"/>
