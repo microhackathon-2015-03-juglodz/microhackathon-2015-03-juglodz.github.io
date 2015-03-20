@@ -1,0 +1,14 @@
+-   name: Rundeck
+    url: http://rundeck.uservices.pl:4440
+-   name: Nexus
+    url: http://nexus.uservices.pl:8081/nexus/
+-   name: Graphite
+    url: http://graphite.uservices.pl/
+-   name: Grafana
+    url: http://grafana.uservices.pl/
+-   name: Kibana
+    url: http://kibana.uservices.pl/
+-   name: Exhibitor
+    url: http://apps.uservices.pl:8080/exhibitor/v1/ui/index.html
+-   name: Jenkins
+    url: http://jenkins.uservices.pl:8080/

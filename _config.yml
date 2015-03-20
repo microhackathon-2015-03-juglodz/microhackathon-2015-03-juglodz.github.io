@@ -1,3 +1,5 @@
-title: Microservice Hackathon
+title: Microservice Hackathon - Łódź 2015-03-21
+url: "http://microhackathon-2015-03-juglodz.github.io"
 markdown: redcarpet
 exclude: ['vendor']
+domain: uservices.pl
