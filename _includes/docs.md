@@ -9,7 +9,7 @@ Here you find all information required for you to work during the Hackathon.
 
 ![Lodz JUG](/images/lodzjug.png "Lodz JUG")
 ![Amazon Web Services](/images/aws.png "AWS")
-![GFT](/images/gftlogo.jpg "GFT)
+![GFT](/images/gftlogo.jpg "GFT")
 
 # Link to the presentation
 
