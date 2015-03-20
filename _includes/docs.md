@@ -8,16 +8,16 @@ Here you find all information required for you to work during the Hackathon.
 # Sponsors
 
 <div class="sponsor">
-![Lodz JUG](/images/lodzjug.png "Lodz JUG")
+	<img src="/images/lodzjug.png" title="Łódź JUG" />
 </div>
 <div class="sponsor">
-![Amazon Web Services](/images/aws.png "AWS")
+    <img title="Amazon Web Services" src="/images/aws.png" />
 </div>
 <div class="sponsor">
-![GFT](/images/gftlogo.jpg "GFT")
+	<img src="/images/gftlogo.jpg" title="GFT"/>
 </div>
 <div class="sponsor">
-![4financeIT](/images/4finance-logo.png "4financeIT")
+	<img src="/images/4finance-logo.png" title="4financeIT"/>
 </div>
 
 # Link to the presentation
