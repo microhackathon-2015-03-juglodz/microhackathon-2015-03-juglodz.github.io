@@ -4,6 +4,14 @@ title: Howto
 permalink: /howto/
 ---
 
+# Troubleshooting ;)
+
+To build locally you have to add two switches
+
+```
+./gradlew clean build -x test -x generateWiremockClientStubs 
+```
+
 # Clone the GIT properties repository to your computer
 
 Run this command (if you have sent your SSH key to Github)
