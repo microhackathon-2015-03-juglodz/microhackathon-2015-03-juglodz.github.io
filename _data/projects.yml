@@ -2,47 +2,82 @@
     port: 8053
     template: https://github.com/4finance/boot-microservice.git
     template_version: master
+    hackers: Daniel Wojda, Bartek Andrzejczak
+
 -   name: loan-application-service-waw
     port: 8054
     template: https://github.com/4finance/boot-microservice.git
     template_version: master
+    hackers: Bartek Bilicki, Rafal Jagielski
+
 -   name: loan-application-decision-maker-waw
     port: 8055
     template: https://github.com/4finance/boot-microservice.git
     template_version: master
+    hackers: Krzysiek Walczak, Tomek Owczarek
+
 -   name: marketing-offer-generator-waw
     port: 8056
     template: https://github.com/4finance/boot-microservice.git
     template_version: master
+    hackers: Jacek Pintera
+
 -   name: reporting-service-waw
     port: 8057
     template: https://github.com/4finance/boot-microservice.git
     template_version: boot-microservice-gui-without-node
+    hackers: Maciek Zielinski
+
 -   name: client-service-waw
     port: 8058
     template: https://github.com/4finance/boot-microservice.git
     template_version: boot-microservice-gui-without-node
+    hackers: Piotr Zalewski
+
+-   name: ui-waw
+    port: 8052
+    template: https://github.com/4finance/boot-microservice.git
+    template_version: boot-microservice-gui-without-node
+    hackers: Bartek Witczak, Maciek Kucharek
+
 -   name: fraud-detection-service-lodz
     port: 9053
     template: https://github.com/4finance/boot-microservice.git
     template_version: master
+    hackers: Draus
+
 -   name: loan-application-service-lodz
     port: 9054
     template: https://github.com/4finance/boot-microservice.git
     template_version: master
+    hackers: Piotr Kosmowski, Rafal Lenarczyk
+
 -   name: loan-application-decision-maker-lodz
     port: 9055
     template: https://github.com/4finance/boot-microservice.git
     template_version: master
+    hackers: Michal Wasilewski, Krzysztof Szczesniak
+
 -   name: marketing-offer-generator-lodz
     port: 9056
     template: https://github.com/4finance/boot-microservice.git
     template_version: master
+    hackers: Marta Chojnacka, Piotr Zawadzki
+
 -   name: reporting-service-lodz
     port: 9057
     template: https://github.com/4finance/boot-microservice.git
     template_version: boot-microservice-gui-without-node
+    hackers: Adam Winciorek
+
 -   name: client-service-lodz
     port: 9058
     template: https://github.com/4finance/boot-microservice.git
     template_version: boot-microservice-gui-without-node
+    hackers: Wlodar
+
+-   name: ui-lodz
+    port: 9052
+    template: https://github.com/4finance/boot-microservice.git
+    template_version: boot-microservice-gui-without-node
+    hackers: Radek Antoniuk
