@@ -12,5 +12,5 @@
     url: http://apps.uservices.pl:8080/exhibitor/v1/ui/index.html
 -   name: Jenkins
     url: http://jenkins.uservices.pl:8080/
--   name: Jenkins
-    url: http://apps.uservices.pl:7979/
+-   name: Hystrix Dashboard
+    url: http://apps.uservices.pl:7979/hystrix-dashboard
